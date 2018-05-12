@@ -1,0 +1,20 @@
+{
+  "name": "bitzinfo",
+  "version": "1.0.0",
+  "description": "A simple React based app for fetching crypto currency info using Next server side rendering",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^2.0.0",
+    "jquery": "^3.3.1",
+    "next": "^6.0.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
